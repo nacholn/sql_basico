@@ -1,0 +1,12 @@
+Tenemos un fichero csv (recurso.csv) con clientes de Alcobendas. 
+El objetivo de nuestra empresa es realizar un mailing estándar según el tipo de actividad y incluyendo a la atención de la persona responsable. 
+Para empresas con una facturación mayor de 2.000.000 de € a parte realizar llamadas personales a los responsables presentando los servicios. 
+Las empresas que contraten nuestros servicios almacenaremos información adicional como su CIF o número de cuenta. 
+Sobre estos nuevos clientes deberemos almacenar la información de los pedidos realizados.
+
+*La información del cliente y del pedido no están reflejados en el archivo csv. Un cliente tendrá un CIF y un número de cuenta opcional y un pedido tendrá una referencia y una fecha de pedido.
+
+Para realizar este objetivo correctamente se pide realizar las siguientes tareas:
+1. Realizar un análisis
+2. Obtener las entidades principales y relaciones
+3. Estructurar la información en un base de datos relacional para conseguir realizar diferentes campañas de entrada en clientes. 
