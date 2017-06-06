@@ -2,48 +2,8 @@
 Crear la base de datos a partir del archivo Modulo1_Ejercicio1\Soluccion\sql\schema_and_data.sql y realizar las siguientes consultas
 */
 
-/*
-Crear la base de datos a partir del archivo Modulo1_Ejercicio1\Soluccion\sql\schema_and_data.sql y realizar las siguientes consultas
-*/
+--1. Realizar el comando para insertar una empresa y una oficina solo con los campos obligatorios con nombre comercial nuestro nombre (inventar el resto y DireccionCalleId = 1)
 
---NIVEL BASICO
---1. Obtener los Nombres Comerciales de empresas ordenados descendentemente
+--2. Actualizar la empresa creada para ponerle el valor de la pagina web (A partir de nuestro NombreComercial)
 
---2. Obtener los Contactos de las oficinas ordenados ascendentemente
-
---3. Obtener el total de Oficinas
-
---4. Obtener el total de Emails diferentes en Oficinas
-
---5. Obtener la media de facturación
-
---6. Obtener la maxima facturación
-
---7. Obtener la maxima facturación
-
---8. Obtener el nombre de las Empresas y las Actividades
-
---NIVEL AVANZADO
---1. Obtener el total de oficinas agrupadas por el Nombre Comercial de empresas
-
---2. Obtener el total de oficinas agrupadas por el Nombre Comercial de empresas que tengan mas de 1
-
---3. Obtener la empresa con mayor facturación
-
---4. Obtener las actividades por empresa
-
---5. Obtener las actividades por empresa mayores de 5
-
---6. Obtener las empresas con mas de 5 pedidos
-
---7. Obtener las empresas con pedidos superiores a 50.000 €
-
---8. Obtener la dirección de la calle desde la que se hacen mas pedidos
-
---9. Obtener la dirección de la calle desde la que se hacen menos pedidos
-
---10. Obtener el total de los pedidos por empresa
-
---11. Obtener el total de los pedidos por empresa ordenados por el menor total al mayor
-
---12. Obtener la empresa con mayor total en el pedido (NO ANSI)
+--2. Borrar la empresa creada para ponerle el valor de la pagina web (A partir de nuestro NombreComercial)
