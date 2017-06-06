@@ -2,10 +2,6 @@
 Crear la base de datos a partir del archivo Modulo1_Ejercicio1\Soluccion\sql\schema_and_data.sql y realizar las siguientes consultas
 */
 
-/*
-Crear la base de datos a partir del archivo Modulo1_Ejercicio1\Soluccion\sql\schema_and_data.sql y realizar las siguientes consultas
-*/
-
 --NIVEL BASICO
 --1. Obtener los Nombres Comerciales de empresas ordenados descendentemente
 
